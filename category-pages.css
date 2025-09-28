@@ -1,0 +1,19 @@
+.dairy-products {
+    display: flex;
+}
+
+.dairy-products a{
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.dairy-products h2 {
+    width: 100%;
+}
+
+.dairy-products img {
+    width: 150px;
+    border-radius: 8%;
+    border: 1px solid rgb(158, 151, 151)
+}
+
